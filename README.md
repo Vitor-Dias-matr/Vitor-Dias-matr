@@ -20,8 +20,8 @@
 </br>
 
 <div>
-	<a target="_blank" href="https://www.linkedin.com/in/cézar-dias-martins-5b450b260">
-		<img target="blank" alt="Vitor-LinkedIn" src="https://www.linkedin.com/in/vitor-martins-6321a5177/"/>
+	<a target="_blank" href="https://www.linkedin.com/in/vitor-martins-6321a5177/">
+		<img target="blank" alt="Vitor-LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 	</a>
 	</br>
 	<a target="_blank" href="https://vitordiasmartins.netlify.app">Portfolio</a>
